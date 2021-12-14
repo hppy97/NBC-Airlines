@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "name": "Lalit Panwar",
+      "email": "hppy@gmail.com",
+      "username": "hppy",
+      "phone": "8295780848",
+      "password": "dwd12",
+      "id": 8
+    },
+    {
+      "name": "Amit",
+      "email": "amit@gmail.com",
+      "username": "amit",
+      "phone": "7877979",
+      "password": "125323",
+      "id": 9
+    },
+    {
+      "name": "abc",
+      "email": "abc@gmil.com",
+      "username": "abc",
+      "phone": "7877979",
+      "password": "abc",
+      "id": 10
+    },
+    {
+      "name": "Amrinder Gill",
+      "email": "lahoriye@gmail.com",
+      "username": "Gill",
+      "phone": "25209082",
+      "password": "123",
+      "id": 11
+    },
+    {
+      "name": "xyz",
+      "email": "xyz@gmail.com",
+      "username": "xyz",
+      "phone": "12345",
+      "password": "123",
+      "id": 12
+    }
+  ],
+  "games": [
+    {
+      "id": 1,
+      "name": "Football",
+      "player": "Messi"
+    },
+    {
+      "id": 2,
+      "name": "Cricket",
+      "player": "Jadeja"
+    },
+    {
+      "name": "Cricket",
+      "player": "Rohit Sharma",
+      "id": 3
+    }
+  ],
+  "players": [
+    {
+      "id": 1,
+      "name": "Messi",
+      "email": "messi@gmail.com",
+      "phone": "201982321"
+    },
+    {
+      "id": 2,
+      "name": "Jadeja",
+      "email": "jaddu@gmail.com",
+      "phone": "8224843848"
+    },
+    {
+      "name": "Rohit Sharma",
+      "email": "rohit@yahoo.com",
+      "phone": "7865345234",
+      "id": 3
+    }
+  ]
+}
