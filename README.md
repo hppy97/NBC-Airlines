@@ -10,7 +10,7 @@ It is an online Airline Reservation application.
 * BootJs
 * Spring Boot
 * MongoDb
-*MySql
+* MySql
 ```
 
 ## Available Scripts
