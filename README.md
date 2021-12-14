@@ -4,6 +4,15 @@ It is an online Airline Reservation application.
 
 <img width="943" alt="home" src="https://user-images.githubusercontent.com/41753714/145942022-4036f879-3004-429a-b14b-f0c5867b8847.png">
 
+## Built With
+```
+* ReactJs
+* BootJs
+* Spring Boot
+* MongoDb
+*MySql
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
